@@ -1,0 +1,37 @@
+Please install these required dependencies with the specified versions for the program to perform properly.
+
+
+Python programming language to be installed from their official website ==>> https://www.python.org/downloads/
+speechrecognition==3.10.0
+gtts==2.3.1
+playsound==1.2.2    <<== Installing this particular version is of utmost importance
+numpy==1.24.2
+opencv-python==4.7.0
+mediapipe==0.9.0
+matplotlib==3.7.1
+scikit-learn==1.2.2
+pyautogui==1.0.0.
+
+
+Installation Commands:
+
+pip install speechrecognition==3.10.0
+pip install gtts==2.3.1
+pip install playsound==1.2.2
+pip install numpy==1.24.2
+pip install opencv-python==4.7.0
+pip install mediapipe==0.9.0
+pip install matplotlib==3.7.1
+pip install scikit-learn==1.2.2
+pip install pyautogui==1.0.0
+
+
+How to run commands and install the dependencies:
+
+Open up your code editor e.g., Visual Studio Code or any other code editor, in VS Code,
+click on the terminal menu bar at the top of your screen and click on new terminal or use shortcut Ctrl+Shift+`
+After opening terminal, run the above commands to install all dependencies.
+
+
+
+
